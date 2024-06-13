@@ -52,6 +52,6 @@ if score_user>score_computer:
 elif score_computer>score_user:
     print("\n\tYou lost!!!!!!")
 else:
-    print("\n\tEquised")
+    print("\n\tEqual!!")
 
 print(f'Computer {score_computer} - {score_user} You')    
